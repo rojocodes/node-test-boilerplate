@@ -1,7 +1,7 @@
 # node-test-boilerplate
 This is a node boilerplate project to use supertest and jest to test your apis.
 
-## Supertest
+## Supertest..
 Supertest is a library made specifically for testing nodejs http servers
 
 ## Jest
